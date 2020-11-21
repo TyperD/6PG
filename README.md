@@ -1,16 +1,7 @@
-# 6PG - Build a Discord Bot With No Code
-Customize many different modules including:
+#1 Best Discord Bot
+Cool Commands
 Announce, Auto-mod, General, Leveling, Music, and more!
 
-**Dashboard**: https://github.com/theADAMJR/6PG-Dashboard
+**Dashboard**: Coming Soon
 
-### Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/theADAMJR/6PG/tree/master)
 
----
-
-### Other Setup
-This is used if you are **not using Heroku**.
-
-1) Edit `.env` values. The existing values are supplied as a **default**.
-2) Add `.env` to **.gitignore**
